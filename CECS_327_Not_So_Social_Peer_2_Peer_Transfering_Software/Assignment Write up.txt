@@ -1,0 +1,9 @@
+This term project was a challenge it took a couple of trys to get everything working properly. 
+When I thought I was done i had another error to look at, but it was all worth it. Planning and talking to the professor really helped smooth out the rough parts. 
+I think i read the prompt like at least 20 times to make sure I knew everything was good, or to verify that I was correctly doing the work.
+My partner and I did a pretty good job with the planning. He was very honset in what he was able to do so it was very easy to get things done. 
+We struggled woht the intergration and testing proccess because of COVID but I got it to work, by just using VMs. That was a headache of its own.
+Using the async methods made it easier to send files and it definitely helped to have the socket classes have both async and non-async methods to choose from.
+I like creating GUIs so using C# allowed me to have that challenge, also it was very irritating to type in the ip address 100 times when debugging also hard coding sensitve information is just bad practice.
+Overall, this assignment was very cool, there where alot of happy dances, late night calls, tears of sadness/joy. Hated debugging with a passion, i cant wait to create a code where I have no or little errors. 
+Before, and during the development of this application, we used countless of resources.
